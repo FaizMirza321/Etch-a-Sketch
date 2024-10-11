@@ -1,5 +1,6 @@
 const container = document.getElementById("container");
-containerWidth=container.offsetWidth;
+container.style.width="500px";
+const containerWidth=container.offsetWidth;
 
 function createGrid(num){   
     for(let i=0;i<num;i++){
