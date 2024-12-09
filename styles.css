@@ -1,5 +1,6 @@
 #container{
     display:flex;
+    margin-top: 20%;
 }
 #title{
     display:block;
@@ -9,6 +10,5 @@
 body{
     display: flex;
     align-items: center;
-    margin-top: 20%;
     gap: 20px;
 }
