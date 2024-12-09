@@ -9,5 +9,6 @@
 body{
     display: flex;
     align-items: center;
+    margin-top: 20%;
     gap: 20px;
 }
