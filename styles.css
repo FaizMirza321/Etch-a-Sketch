@@ -3,12 +3,12 @@
     margin-top: 20%;
 }
 #title{
-    display:block;
     text-align: center;
-    margin-bottom: 50px;
+    
 }
 body{
     display: flex;
     align-items: center;
+    flex-direction: column;
     gap: 20px;
 }
