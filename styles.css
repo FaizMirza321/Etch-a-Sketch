@@ -1,6 +1,11 @@
 #container{
     display:flex;
 }
+#title{
+    display:block;
+    text-align: center;
+    margin-bottom: 50px;
+}
 body{
     display: flex;
     align-items: center;
